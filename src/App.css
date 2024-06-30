@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 100px;
+}
+.btn-clear{
+  width: 100px;
+  height: 30px;
+  margin-bottom: 30px;
+}
+

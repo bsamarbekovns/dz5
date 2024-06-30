@@ -1,0 +1,12 @@
+.todo {
+    width: 600px;
+    height: 100px;
+    box-shadow: 4px 4px 20px rgba(185, 185, 185, 0.75);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.isDone{
+    text-decoration: line-through;
+    background-color: greenyellow;
+}
